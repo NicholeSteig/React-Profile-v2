@@ -1,0 +1,7 @@
+.container{
+    /* background-image: url(../assets/background.jpg); */
+    align-content: center;
+    display: flex;
+    width: null;
+    height: null;
+}
