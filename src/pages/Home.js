@@ -2,6 +2,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from "react-bootstrap/Card";
 import Navbar from "../components/Navbar";
+import BackgroundImage from "../components/Background";
 import "../pages/pages.css";
 
 const Home = () => {
